@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib" />
+      <root url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/bin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.base" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.controls" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.fxml" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.graphics" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.media" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.swing" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib/javafx.web" />
+      <root url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib" />
+      <root url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Downloaded Applications/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/openjfx-16_windows-x64_bin-sdk/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
